@@ -23,3 +23,6 @@ npm start
 ```
 
 The app will automatically install all the required packages at start
+
+## Use this template
+You can now create a repo from this template, you just have to click on "use this template" button and then "create a new repository".
